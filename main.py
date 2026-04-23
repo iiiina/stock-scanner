@@ -1,4 +1,3 @@
-import yfinance as yf
 from datetime import datetime
 from jinja2 import Template
 
